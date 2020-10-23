@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrosswordSolver", "CrosswordSolver\CrosswordSolver.csproj", "{D3DA815D-FB62-4726-B675-10CD5B65880F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3DA815D-FB62-4726-B675-10CD5B65880F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3DA815D-FB62-4726-B675-10CD5B65880F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DA815D-FB62-4726-B675-10CD5B65880F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3DA815D-FB62-4726-B675-10CD5B65880F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {660042B5-0A99-4CF0-B2A8-6EFC61A42B49}
+	EndGlobalSection
+EndGlobal
